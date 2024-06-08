@@ -1,0 +1,27 @@
+# CHECKLIST DE PARA GERAR ARTIGOS DE QUALIDADE
+- [] Título chamativo: headline
+- [] Imagem de capa chamativa
+- [] Definir o assunto e blocos do artigo
+- [] Postar o artigo com um call to action
+ 
+## Assunto
+C- Linguagem de programação
+
+## Título
+A História e Legado da Linguagem C: porque todo Programador Deve Saber
+
+## Capa
+Feito com Lexica.Art e power point
+
+## Blocos
+Comporte-se como um escritor de artigos tech back-end e escreva o Artigo atendendo as regras abaixo
+{REGRAS}
+> No máximo 5 linhas por blocos de explicação
+> Me explique de maneira informal, como se eu fosse uma criança de 10 anos
+> Os blocos que serão criados estão abaixo:
+- O que é uma linguagem de programação
+- História e Legado da Linguagem C
+- Porque a Linguagem C deve ser estudada por todo programador
+  - Cite Exemplos com códigos da linguagem C demonstrando a importância dela
+- Faça uma call to action para as minhas redes sociais
+- Coloque 3 hashtags que façam sentido
