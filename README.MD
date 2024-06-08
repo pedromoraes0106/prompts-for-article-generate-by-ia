@@ -64,9 +64,9 @@ Lexica.art：
 <p>
     <p>&nbsp&nbsp&nbspPedro Moraes<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/pedromoraes0106.exe">
+    <a href="https://github.com/pedromoraes0106">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/pedro-de-carvalho-moraes-8ab34b229/.exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/pedro-de-carvalho-moraes-8ab34b229/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/pedromoraes0106/">
     Instagram</a>
